@@ -75,7 +75,7 @@ body {
 }
 
 .header__inner .header__inner-right .btn-menu {
-    display: non;
+    display: none;
 }
 
 @media screen and (max-width: 320px) {
